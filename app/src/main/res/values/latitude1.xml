@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="latitude_one">
+        <item>19.0744</item>
+        <item>19.1179</item>
+        <item>19.2298</item>
+        <item>19.1890</item>
+        <item>19.083182</item>
+        <item>19.107060</item>
+        <item>19.0763</item>
+        <item>19.080374</item>
+        <item>19.081208</item>
+        <item>19.081270</item>
+        <item>19.0789</item>
+        <item>19.558819</item>
+        <item>19.095331</item>
+    </string-array>
+</resources>

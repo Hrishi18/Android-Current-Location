@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="longitude_one">
+        <item>72.8605</item>
+        <item>72.8631</item>
+        <item>72.8609</item>
+        <item>72.8355</item>
+        <item>72.848162</item>
+        <item>72.833030</item>
+        <item>72.8654</item>
+        <item>72.847286</item>
+        <item>72.842047</item>
+        <item>72.837902</item>
+        <item>72.8500</item>
+        <item>73.916939</item>
+        <item>72.826644</item>
+    </string-array>
+</resources>
